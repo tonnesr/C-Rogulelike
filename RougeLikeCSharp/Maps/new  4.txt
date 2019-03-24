@@ -1,0 +1,3 @@
+S = Spawn
+X = Enemy
+H = Health +10

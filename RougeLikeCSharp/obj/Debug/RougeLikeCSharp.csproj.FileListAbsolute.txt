@@ -1,0 +1,7 @@
+C:\Users\Tonnes\source\repos\RougeLikeCSharp\RougeLikeCSharp\bin\Debug\RougeLikeCSharp.exe.config
+C:\Users\Tonnes\source\repos\RougeLikeCSharp\RougeLikeCSharp\bin\Debug\RougeLikeCSharp.exe
+C:\Users\Tonnes\source\repos\RougeLikeCSharp\RougeLikeCSharp\bin\Debug\RougeLikeCSharp.pdb
+C:\Users\Tonnes\source\repos\RougeLikeCSharp\RougeLikeCSharp\obj\Debug\RougeLikeCSharp.csprojAssemblyReference.cache
+C:\Users\Tonnes\source\repos\RougeLikeCSharp\RougeLikeCSharp\obj\Debug\RougeLikeCSharp.csproj.CoreCompileInputs.cache
+C:\Users\Tonnes\source\repos\RougeLikeCSharp\RougeLikeCSharp\obj\Debug\RougeLikeCSharp.exe
+C:\Users\Tonnes\source\repos\RougeLikeCSharp\RougeLikeCSharp\obj\Debug\RougeLikeCSharp.pdb

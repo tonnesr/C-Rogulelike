@@ -1,0 +1,1 @@
+Rusty Sword,sword,0,0,0,0,0,0;Iron Sword,sword,1,0,0,0,0,0;Bronze Sword,sword,2,0,0,0,0,0;Rusty Armour,armour,0,0,0,0,0,0;Chain Armour,armour,1,10,0,0,0,0;Health Potion,consumable,1,0,10,0,0,0;Mana Potion,consumable,1,0,0,0,10,0;
